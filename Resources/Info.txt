@@ -1,0 +1,13 @@
+--------------------------------------------------------------------
+The application displays the Fibonacci series within the specified range.
+You can assign a range by running the application from the command line, or set it in the console.
+Non-negative integer data is expected.
+Minimum limit value is 0.
+Maximum limit  value is 4,294,967,295.
+The first argument specified sets the lower bound of the range.
+The second argument sets the upper bound.
+The second value of the argument must be higher than the first.
+--------------------------------------------------------------------
+Command line argument format:   [First_Value] [Second_Value]    or    [First_value] , [Second_Value] 
+With console input, the parameters are set one by one:  [Unsigned_Integer_Value]
+--------------------------------------------------------------------
